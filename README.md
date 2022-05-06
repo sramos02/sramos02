@@ -1,9 +1,8 @@
 <h1 align="center">Hola! 👋, soy Sergio</h1>
-<h3 align="center">Soy resolutivo, extrovertido y creativo. Me gusta el deporte, la música e investigar temas relacionados con la aeronautica. Profesionalmente quiero profundizar en el lado ofensivo de la ciberseguridad, en la rama de Pentesting web. Me encantaría descubrir y aprender en otras ramas de la ciberseguridad. También estoy interesado en la inteligencia artificial, preferiblemente aplicada al campo aeronáutico o aeroespacial.</h3>
 
 - 🔭 Actualmnte estoy trabajando en KPMG España **Tech Risk CC**
 
-- 🤝 Busco trabajar en ciberseguridad **Pentesting web**
+- 🤝 Busco trabajar en ciberseguridad **Offensive Ethical Hacking**
 
 - 🌱 Realizo voluntariado en **SAMUR-PC**
 
