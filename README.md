@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, soy Sergio</h1>
 
-- 🔭 Trabajo de **Offensive Ethical Hacking** en **KPMG España**
+🔭 Actualmente trabajo de **Offensive Ethical Hacking** en **KPMG España**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
