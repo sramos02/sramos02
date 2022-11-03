@@ -1,14 +1,6 @@
 <h1 align="center">Hola! 👋, soy Sergio</h1>
 
-- 🔭 Actualmnte estoy trabajando en KPMG España **Tech Risk CC**
-
-- 🤝 Busco trabajar en ciberseguridad **Offensive Ethical Hacking**
-
-- 🌱 Realizo voluntariado en **SAMUR-PC**
-
-- 📫 Contacta conmigo en **sramos02@ucm.es**
-
-- 📫 Vivo en **Ciudad de Madrid**
+- 🔭 Trabajo de **Offensive Ethical Hacking** en **KPMG España**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
